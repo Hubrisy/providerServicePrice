@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hubrisy.github.io/providerServicePrice/static/css/main.f328cdf7.css",
+    "main.js": "/Hubrisy.github.io/providerServicePrice/static/js/main.3c1b7c07.js",
+    "static/js/787.85bb9051.chunk.js": "/Hubrisy.github.io/providerServicePrice/static/js/787.85bb9051.chunk.js",
+    "index.html": "/Hubrisy.github.io/providerServicePrice/index.html",
+    "main.f328cdf7.css.map": "/Hubrisy.github.io/providerServicePrice/static/css/main.f328cdf7.css.map",
+    "main.3c1b7c07.js.map": "/Hubrisy.github.io/providerServicePrice/static/js/main.3c1b7c07.js.map",
+    "787.85bb9051.chunk.js.map": "/Hubrisy.github.io/providerServicePrice/static/js/787.85bb9051.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f328cdf7.css",
+    "static/js/main.3c1b7c07.js"
+  ]
+}
